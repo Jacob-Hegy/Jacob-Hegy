@@ -1,10 +1,12 @@
-### Hi there 👋
+# Heyo, I'm Jacob Hegy! 👋
+
+
+## About Me <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="29px" height="29px">
 
 <!--
 **Jacob-Hegy/Jacob-Hegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
