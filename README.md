@@ -1,3 +1,7 @@
+output:
+  html_document:
+    css: styles.css
+
 # Heyo, I'm Jacob Hegy! 👋
 <div class="typewriter"><h1>Hey there! I'm Jacob Hegy!</h1></div>
 
