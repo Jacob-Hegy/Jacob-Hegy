@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=5000&color=FFFCFB&background=FF000000&random=false&width=31&height=55&lines=%24)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFCFB&random=false&width=650&height=55&lines=echo+%22Hey+there!+I'm+Jacob+Hegy!%22)](https://git.io/typing-svg)
 
-<h1>About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /></h1>
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /></h1>
 
 ### I'm a recent computer science graduate focused on cybersecurity 👨‍💻! I spend my days working on my projects, discovering new tools, and working on my next cert.
 * Currently pursuing: CCNA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" />
@@ -12,6 +12,16 @@
 * Currently learning: Danish <img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/94a4a78f-851d-4f29-bed8-5aa5866cc98f" width="25" height="25" />
 
 <hr />
+
+## ~~Reasons I Need More Sleep~~ Current Projects:
+* [HackTheBox Challenge Write-Ups](https://github.com/Jacob-Hegy/Projects/tree/main/Sherlocks)<img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/87dd6819-3b43-4090-b401-3949c269ff90" width="25" height="25" />
+* CIS Compliant, Pre-Hardened ISO Images (TBA)
+
+<hr />
+
+## Contact Me
+### Info
+### Socials
 
 <!--
 **Jacob-Hegy/Jacob-Hegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
