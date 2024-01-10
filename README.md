@@ -1,9 +1,8 @@
-output:
-  html_document:
-    css: styles.css
-
-# Heyo, I'm Jacob Hegy! 👋
-<div class="typewriter"><h1>Hey there! I'm Jacob Hegy!</h1></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=5000&color=00FF00&random=false&width=229&height=55&lines=jacob%40github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=5000&color=FFFCFB&background=FF000000&random=false&width=13&height=55&lines=%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=5000&color=4E7C9A&random=false&width=18&height=55&lines=~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=5000&color=FFFCFB&background=FF000000&random=false&width=31&height=55&lines=%24)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFCFB&random=false&width=650&height=55&lines=echo+%22Hey+there!+I'm+Jacob+Hegy!%22)](https://git.io/typing-svg)
 
 ## About Me <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="29px" height="29px">
 
