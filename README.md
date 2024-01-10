@@ -22,6 +22,12 @@
 ## Contact Me
 ### Info
 ### Socials
+<a href="https://linkedin.com/in/jmhegy-cs"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://discord.com/users/267708764147154954"><img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/6b42b7f4-6578-4c6e-ad5c-826bc79056fb" width="32" height="32">
+<a href="https://www.instagram.com/jacobhegy/"><img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/26cb52af-87cc-4f03-9a86-6ba0731e9397" width="32" height="32" />
+<a href="https://www.facebook.com/jacob.hegy/"><img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/e79ada6e-d014-4494-9b06-210196a510be" width="32" height="32" />
+
+
 
 <!--
 **Jacob-Hegy/Jacob-Hegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
