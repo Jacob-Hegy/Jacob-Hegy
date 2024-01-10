@@ -1,32 +1,6 @@
 # Heyo, I'm Jacob Hegy! 👋
 <div class="typewriter"><h1>Hey there! I'm Jacob Hegy!</h1></div>
 
-<style>
-  .container { display: inline-block; }
-
-  .typewriter h1 {
-    font-size: 5em;
-    letter-spacing: 10px;
-    font-family: monospace;
-    border-right: 5px solid;
-    width: 100%
-    white-space: nowrap;
-    overflow: hidden;
-    animation:
-      typing 4s step(26),
-      cursor .4s step-end infinite alternate;
-  }
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  @keyframes cursor {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-</style>
-
 ## About Me <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="29px" height="29px">
 
 <!--
