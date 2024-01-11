@@ -9,7 +9,7 @@
 ### I'm a recent computer science graduate focused on cybersecurity 👨‍💻! I spend my days working on my projects, discovering new tools, and working on my next cert.
 * Currently pursuing: CCNA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" />
 * Current favorite song: Finding and Believing - Pat Metheny <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
-* Currently learning: Danish <img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/94a4a78f-851d-4f29-bed8-5aa5866cc98f" width="25" height="25" />
+* Currently studying: Danish <img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/94a4a78f-851d-4f29-bed8-5aa5866cc98f" width="25" height="25" />
 
 <hr />
 
