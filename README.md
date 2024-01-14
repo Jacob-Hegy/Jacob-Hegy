@@ -15,7 +15,7 @@
 
 ## ~~Reasons I Need More Sleep~~ Current Projects:
 * [HackTheBox Challenge Write-Ups](https://github.com/Jacob-Hegy/Projects/tree/main/Sherlocks)<img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/87dd6819-3b43-4090-b401-3949c269ff90" width="25" height="25" />
-* [CIS Compliant, Pre-Hardened ISO Images](https://github.com/Jacob-Hegy/CIS-Hardening-Guide)
+* [CIS Windows 10 Hardening Guide](https://github.com/Jacob-Hegy/CIS-Hardening-Guide)
 
 <hr />
 
