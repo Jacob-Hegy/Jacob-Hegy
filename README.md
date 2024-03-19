@@ -13,8 +13,7 @@
 
 <hr />
 
-## ~~Reasons I Need More Sleep~~ 
-## Current Projects:
+## ~~Reasons I Need More Sleep~~ Current Projects:
 * [All Projects](https://github.com/Jacob-Hegy/Projects)
 * [Cybermesterskabernes DDC 2024 Write-Ups](https://github.com/Jacob-Hegy/DDC-2024-Write-Ups/tree/main)
 * [HackTheBox Challenge Write-Ups](https://github.com/Jacob-Hegy/Projects/tree/main/Sherlocks)<img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/87dd6819-3b43-4090-b401-3949c269ff90" width="25" height="25" />
