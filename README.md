@@ -7,7 +7,7 @@
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /></h1>
 
 ### I'm a recent computer science graduate focused on cybersecurity 👨‍💻! I currently hold the CompTIA CySA+ and Security+. I spend my days working on my projects, discovering new tools, and working on whatever's got my attention lately
-### I don't code a ton of projects nowadays as I spend a lot of time working on other projects, but you'll still find the occasional code uploaded here!
+### I don't code a ton of projects nowadays as I spend a lot of time working on improving my forensic skills or just write short scripts, but you'll still find the occasional code uploaded here!
 * Currently pursuing: CCNA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" />
 * Current favorite song: Brain Damage - Pink Floyd <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
 * Currently studying: Danish <img src="https://github.com/Jacob-Hegy/Jacob-Hegy/assets/85857129/94a4a78f-851d-4f29-bed8-5aa5866cc98f" width="25" height="25" />
