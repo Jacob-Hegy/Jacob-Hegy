@@ -15,7 +15,6 @@
 
 ## ~~Reasons I Need More Sleep~~ Recent Projects:
 * [Write-Ups](https://github.com/Jacob-Hegy/Write-Ups)
-* [Cybermesterskabernes DDC 2024 Write-Ups](https://github.com/Jacob-Hegy/DDC-2024-Write-Ups/tree/main)
 * [Job Hunting Script](https://github.com/Jacob-Hegy/Job-Hunter)
 
 <hr />
